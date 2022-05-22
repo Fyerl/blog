@@ -1,2 +1,2 @@
 ## Blog Link
-https://fyerl.hashnode.dev/
+https://fyerl.tech/
